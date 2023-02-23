@@ -1,0 +1,66 @@
+:root
+{
+    --main-bg-color:brown;
+}
+.max-width-1
+{
+    max-width: 86vw;
+
+}
+.max-width-2
+{
+    max-width: 60vw;
+}
+.m-auto
+{
+    margin: auto;
+}
+.btn
+{
+
+}
+.font1
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.font2
+{
+    font-family:fantasy
+    
+}
+.mx-1
+{
+    margin-left: 23px;
+    margin-right: 23px;
+    margin-top: 10px;
+}
+.my-2
+{
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+.form-box input,textarea
+{
+  width: 35vw;
+  padding: 10px 6px;
+  margin: 5px 0;
+  font-size: 18px;
+  font-family: cursive;
+  border-radius: 10px;
+  border-color: rgb(234, 100, 100);
+  border-top-width: 4px;
+}
+.hr-margin-bottom
+{
+    margin-bottom: 10px;
+}
+.border-radius
+{
+    border-radius:20px ;
+}
+.border-radius-top
+{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+}
